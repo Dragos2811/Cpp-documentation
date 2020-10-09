@@ -55,13 +55,11 @@ void test_implicit()
     double d = 0.1;
 
     i = i + s;  // promotion
-    if (d)
+    if (d) //boolean conversion
         cout << d << endl;
 
-    d = 2 * f;
+    d = 2 * f; // 2 convertion from int to float, then 2 * f promotion from float to double
 
-    s = i + 35000;
-    cout << s << endl;
 }
 
 void test_narrowing()

@@ -1,6 +1,6 @@
 # Table of Contents
 1. [The basics](https://github.com/Dragos2811/Cpp-documentation/tree/cpp_documentation_v1/basics)
-2. [Conversions](#default)
+2. [Conversions](https://github.com/Dragos2811/Cpp-documentation/tree/cpp_documentation_v1/conversions)
 3. [Strings](#default)
 4. [Namespaces](#default)
 5. [OOP](#default)
