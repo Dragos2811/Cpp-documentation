@@ -1,0 +1,9 @@
+S Ion Ionescu 25 M 80 8 7 6 3 5
+S Pop Popescu 30 M 80 10 10 9 8 10
+S Ion2 Ionescuu 27 M 80 9 7 6 3 5
+S Pop2 Popescuu 33 M 80 10 10 9 8 10
+S Ion3 Ionescuuu 22 M 80 10 10 6 3 10
+S Pop3 Popescuuu 38 M 80 10 10 9 10 10
+P Vasile Ionescu 65 M 80 2000
+M Andreea Ionescu 28 F 50 2000
+O Gigi Mic 5 M 20
